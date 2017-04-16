@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 5fa050e2ea6523940a461266c65a9341
+timeCreated: 1483391181
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bomber_0
+    21300002: Bomber_1
+    21300004: Bomber_2
+    21300006: Bomber_3
+    21300008: Bomber_4
+    21300010: Bomber_5
+    21300012: Bomber_6
+    21300014: Bomber_7
+    21300016: Bomber_8
+    21300018: Bomber_9
+    21300020: Bomber_10
+    21300022: Bomber_11
+    21300024: Bomber_12
+    21300026: Bomber_13
+    21300028: Bomber_14
+    21300030: Bomber_15
+    21300032: Bomber_16
+    21300034: Bomber_17
+    21300036: Bomber_18
+    21300038: Bomber_19
+    21300040: Bomber_20
+    21300042: Bomber_21
+    21300044: Bomber_22
+    21300046: Bomber_23
+    21300048: Bomber_24
+    21300050: Bomber_25
+    21300052: Bomber_26
+    21300054: Bomber_27
+    21300056: Bomber_28
+    21300058: Bomber_29
+    21300060: Bomber_30
+    21300062: Bomber_31
+    21300064: Bomber_32
+    21300066: Bomber_33
+    21300068: Bomber_34
+    21300070: Bomber_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bomber_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_1
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_2
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_3
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_4
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_5
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_6
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_7
+      rect:
+        serializedVersion: 2
+        x: 5831
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_8
+      rect:
+        serializedVersion: 2
+        x: 6664
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_9
+      rect:
+        serializedVersion: 2
+        x: 7497
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_10
+      rect:
+        serializedVersion: 2
+        x: 8330
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_11
+      rect:
+        serializedVersion: 2
+        x: 9163
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_14
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_15
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_16
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_17
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_18
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_19
+      rect:
+        serializedVersion: 2
+        x: 5831
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_20
+      rect:
+        serializedVersion: 2
+        x: 6664
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_21
+      rect:
+        serializedVersion: 2
+        x: 7497
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_22
+      rect:
+        serializedVersion: 2
+        x: 8330
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_23
+      rect:
+        serializedVersion: 2
+        x: 9163
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_25
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_26
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_27
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_28
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_29
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_30
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_31
+      rect:
+        serializedVersion: 2
+        x: 5831
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_32
+      rect:
+        serializedVersion: 2
+        x: 6664
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_33
+      rect:
+        serializedVersion: 2
+        x: 7497
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_34
+      rect:
+        serializedVersion: 2
+        x: 8330
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomber_35
+      rect:
+        serializedVersion: 2
+        x: 9163
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

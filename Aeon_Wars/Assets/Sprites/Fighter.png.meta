@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 80ea516aa76e268458add2bc57a5d689
+timeCreated: 1483326384
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fighter_0
+    21300002: Fighter_1
+    21300004: Fighter_2
+    21300006: Fighter_3
+    21300008: Fighter_4
+    21300010: Fighter_5
+    21300012: Fighter_6
+    21300014: Fighter_7
+    21300016: Fighter_8
+    21300018: Fighter_9
+    21300020: Fighter_10
+    21300022: Fighter_11
+    21300024: Fighter_12
+    21300026: Fighter_13
+    21300028: Fighter_14
+    21300030: Fighter_15
+    21300032: Fighter_16
+    21300034: Fighter_17
+    21300036: Fighter_18
+    21300038: Fighter_19
+    21300040: Fighter_20
+    21300042: Fighter_21
+    21300044: Fighter_22
+    21300046: Fighter_23
+    21300048: Fighter_24
+    21300050: Fighter_25
+    21300052: Fighter_26
+    21300054: Fighter_27
+    21300056: Fighter_28
+    21300058: Fighter_29
+    21300060: Fighter_30
+    21300062: Fighter_31
+    21300064: Fighter_32
+    21300066: Fighter_33
+    21300068: Fighter_34
+    21300070: Fighter_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fighter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_1
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_2
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_3
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_4
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_5
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_6
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_7
+      rect:
+        serializedVersion: 2
+        x: 5831
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_8
+      rect:
+        serializedVersion: 2
+        x: 6664
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_9
+      rect:
+        serializedVersion: 2
+        x: 7497
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_10
+      rect:
+        serializedVersion: 2
+        x: 8330
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_11
+      rect:
+        serializedVersion: 2
+        x: 9163
+        y: 1312.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_14
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_15
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_16
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_17
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_18
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_19
+      rect:
+        serializedVersion: 2
+        x: 5831
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_20
+      rect:
+        serializedVersion: 2
+        x: 6664
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_21
+      rect:
+        serializedVersion: 2
+        x: 7497
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_22
+      rect:
+        serializedVersion: 2
+        x: 8330
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_23
+      rect:
+        serializedVersion: 2
+        x: 9163
+        y: 656.6667
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_25
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_26
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_27
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_28
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_29
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_30
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_31
+      rect:
+        serializedVersion: 2
+        x: 5831
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_32
+      rect:
+        serializedVersion: 2
+        x: 6664
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_33
+      rect:
+        serializedVersion: 2
+        x: 7497
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_34
+      rect:
+        serializedVersion: 2
+        x: 8330
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fighter_35
+      rect:
+        serializedVersion: 2
+        x: 9163
+        y: 0.666687
+        width: 833.25
+        height: 656.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

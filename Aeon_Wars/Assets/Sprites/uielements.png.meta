@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 4fc2fa9acfab874478297f8252eb0915
+timeCreated: 1484047012
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tittle
+    21300002: Play
+    21300004: HighScores
+    21300006: ShipUI
+    21300008: Options
+    21300010: ShieldFill
+    21300012: Exit
+    21300014: ShieldEmpty
+    21300016: Back
+    21300018: EnergyFill
+    21300020: EnergyEmpty
+    21300022: AreYouSure
+    21300024: Yes
+    21300026: No
+    21300028: Paused
+    21300030: Resume
+    21300032: Quit
+    21300034: Loading
+    21300036: GameOver
+    21300038: PortraitBG
+    21300040: PortraitEmpty
+    21300042: Button
+    21300044: UI
+    21300046: Tittle
+    21300048: ShieldBar
+    21300050: ShieldVoid
+    21300052: EnergyBar
+    21300054: EnergyVoid
+    21300056: PortraitBar
+    21300058: PortraitBG
+    21300060: PortraitVoid
+    21300062: uielements_10
+    21300064: uielements_11
+    21300066: uielements_12
+    21300068: uielements_13
+    21300070: uielements_14
+    21300072: uielements_15
+    21300074: uielements_16
+    21300076: uielements_17
+    21300078: uielements_18
+    21300080: uielements_19
+    21300082: uielements_20
+    21300084: uielements_21
+    21300086: uielements_22
+    21300088: uielements_0
+    21300090: uielements_1
+    21300092: uielements_2
+    21300094: uielements_3
+    21300096: uielements_4
+    21300098: uielements_5
+    21300100: uielements_6
+    21300102: uielements_7
+    21300104: uielements_8
+    21300106: uielements_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uielements_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1022
+        width: 349
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uielements_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1043
+        width: 153
+        height: 305
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uielements_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1036
+        width: 161
+        height: 319
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uielements_3
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1043
+        width: 153
+        height: 305
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uielements_4
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1036
+        width: 161
+        height: 319
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uielements_5
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1108
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uielements_6
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1094
+        width: 204
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uielements_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 909
+        width: 329
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 0, z: 22, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uielements_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 638
+        width: 742
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 0, z: 80, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: uielements_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 265
+        width: 1148
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
